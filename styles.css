@@ -1,0 +1,124 @@
+.top_container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+}
+h1{
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #056676;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #056676;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #056676;
+  font-size: 1.5rem;
+}
+p{
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+.bottom_cloud{
+  position: absolute;
+  bottom: 300px;
+  left:300px;
+}
+.top_cloud{
+  position: absolute;
+  right: 230px;
+  top: 150px;
+}
+.skill-row{
+  width: 50%;
+  margin: 90px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill_1{
+  height: 140px;
+  width: 25%;
+  float: left;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.skill_2{
+  height: 170px;
+  width: 25%;
+  float: right;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+.reetik_image{
+  margin-top: 30px;
+  height:130px;
+  width: 130px;
+}
+.skill_2_title{
+  text-align: right;
+}
+.skill_2_desc{
+  text-align: right;
+}
+hr{
+  border: 5px dotted black;
+  border-bottom: none;
+  width: 4%;
+  margin: 70px auto;
+}
+.contact_desc{
+  width: 60%;
+  margin: 50px auto 80px auto;
+}
+.btn {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+  margin-bottom: 50px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+}
+.copyright{
+  padding: 50px 0 35px;
+}
+.footer-link{
+  margin-top: 20px;
+}
+.link-img{
+  margin: 50px auto 0 auto;
+}
+.link-img-2{
+  margin: 50px 20px 0 20px;
+}
